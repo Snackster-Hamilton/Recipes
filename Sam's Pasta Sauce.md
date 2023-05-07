@@ -1,7 +1,4 @@
 ## Ingredients
-2 100oz can san marzano tomato
-3 large onions (6cup) 
-6-8 cloves garlic
 | Quantity | Ingredient | Price |
 |------|------------|-----------|
 | 2 100oz Can | San Marzano Tomato| $20 |
