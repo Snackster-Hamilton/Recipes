@@ -19,10 +19,10 @@
 * Boil everything together until reduced 25%
 * Jar while hot to 90% full (If seal doesn't activate further boiling is required)
 
-## Price Analysis
-| Makes | Cost of Ingredients | Sells for | Profit |
-|--------|--------------------|-----------|------|
-| 8-10x 500ml Jar | $40 (Jars included) | | |
+
+
+
+
 
 
 
