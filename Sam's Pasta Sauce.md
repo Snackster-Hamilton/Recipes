@@ -1,15 +1,15 @@
 ## Ingredients
-| Quantity | Ingredient | Price |
-|------|------------|-----------|
-| 2 100oz Can | San Marzano Tomato| $20 |
-| 3 Large (6 cup) | Onion | $3 |
-| 6-8 Cloves | Garlic | $1 |
-| 3-4 | Hot Peppers |  |
-| Half Bunch | Basil | $2 |
-| 3tsp | Dried Oregano |  |
-| 9tsp | Tomato Paste | $2 |
-| To Taste | Salt & Pepper|  |
-| To Taste | Olive Oil | |
+| Quantity | Ingredient |
+|------|------------|
+| 2 100oz Can | San Marzano Tomato|
+| 3 Large (6 cup) | Onion |
+| 6-8 Cloves | Garlic |
+| 3-4 | Hot Peppers |
+| Half Bunch | Basil |
+| 3tsp | Dried Oregano |
+| 9tsp | Tomato Paste |
+| To Taste | Salt & Pepper|
+| To Taste | Olive Oil| 
 
 ## Procedure
 * Vitamix Tomatoes and Onion
